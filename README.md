@@ -18,7 +18,7 @@ Welcome to **028-Amaya Resonance**, your go-to text-to-speech converter that bri
 ### Installation
 1. **Clone the Repository**:
     ```bash
-    git clone <your_repository_url>
+    git clone <https://github.com/Jeff9497/Amaya28.git>
     cd Resonance
     ```
 
