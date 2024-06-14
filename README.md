@@ -1,4 +1,3 @@
-# Amaya28
 
 # 028-Amaya Resonance: Text-to-Speech Converter
 
