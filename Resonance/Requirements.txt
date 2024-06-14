@@ -1,0 +1,4 @@
+ pydub
+pyfiglet
+requests
+colorama
