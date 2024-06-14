@@ -72,12 +72,12 @@ def display_banner():
     nameOfTheScript = "028-Amaya Resonance"
     banner = pyfiglet.figlet_format(nameOfTheScript, font="slant")
     print(Fore.CYAN + banner)
-    print(Fore.YELLOW + f"\tScript by J3ff_28 V.1.0\n")
+    print(Fore.YELLOW + f"\tScript by J3ff_9497 V.1.0\n")
     print(Fore.YELLOW + f"This script is for educational purpose only. The author will not be responsible for any misuse or damage caused by this script.\n")
 
 # Main function to handle the text-to-audio conversion process
 def main():
-    api_key = "65a73fd492msh82a25951c975330p1a91b5jsn87fe2844ce0a"  # Replace with your actual API key
+    api_key = "YOUR_ACTUAL_API_KEY"  # Replace with your actual API key
     display_banner()
     print(Fore.GREEN + "Welcome to the Text-to-Audio Converter")
     print(Fore.GREEN + "======================================\n")
